@@ -18,5 +18,6 @@ class Song
     @@count
   end
   def self.condition
+    @@artists
   end
 end
