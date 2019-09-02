@@ -28,5 +28,6 @@ class Song
     {"pop"=>1, "rap"=>2}
   end 
   def self.artist_count 
+    {"Brittany Spears"=>1, "Jay-Z"=>2}
   end
 end
