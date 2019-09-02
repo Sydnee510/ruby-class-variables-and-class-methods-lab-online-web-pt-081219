@@ -17,7 +17,7 @@ class Song
   def self.count 
     @@count
   end
-  def self.array 
+  def self.count 
     @@artists
   end
 end
