@@ -13,7 +13,6 @@ class Song
       @@artists << @artist 
     # end
       @@genres << @genre
-    
-  
   end 
+  
 end
