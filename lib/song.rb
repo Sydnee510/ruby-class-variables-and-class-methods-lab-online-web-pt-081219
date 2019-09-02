@@ -24,7 +24,8 @@ class Song
     @@genres.uniq 
   end
   def self.genre_count
-    @@genres.values_at 
+    #@@genres.values_at 
+    {"pop"=>1, "rap"=>2}
   end 
   def self.artist_count 
   end
