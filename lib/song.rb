@@ -17,7 +17,6 @@ class Song
   def self.count 
     @@count
   end
-  def self.condition
-    @@artists
+  def self.artists
   end
 end
